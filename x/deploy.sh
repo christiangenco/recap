@@ -1,1 +1,1 @@
-git push
+yarn build && git push
