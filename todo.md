@@ -1,12 +1,11 @@
 - [x] list view of talks
-- [ ] read time based on word count
-- [ ] get profile image from twitter?
-- [ ]
-- [ ] splash image on each blog post
-- [ ] if no file found, render a page that looks for a live firebase talk
-- [ ] re-enable live blogging
+- [x] read time based on word count
+- [x] splash image on each blog post
+- [x] <link href="https://fonts.googleapis.com/css?family=Lato|Merriweather" rel="stylesheet" class="next-head"/>
+- [x] get profile image from twitter?
+- [x] if no file found, render a page that looks for a live firebase talk
+- [x] re-enable live blogging
 - [ ] twitter integration
 - [ ] talk categories array to organize talks into themes
 - [ ] tracker
 - [ ] figures: https://unifiedjs.com/explore/package/rehype-figure/ https://github.com/josestg/rehype-figure/blob/master/index.js https://github.com/remarkjs/react-markdown#appendix-b-components
-- [x] <link href="https://fonts.googleapis.com/css?family=Lato|Merriweather" rel="stylesheet" class="next-head"/>

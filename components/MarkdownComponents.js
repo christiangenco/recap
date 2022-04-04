@@ -115,7 +115,7 @@ export const Image =
 
     // w-2/3 ml-4 mb-6 md:-mr-16 lg:-mr-32
     let caption = alt;
-    let figureClassName = "";
+    let figureClassName = " ";
     let captionClassName = "";
 
     const { hashtags, stripped } = extractHashtags(alt);
