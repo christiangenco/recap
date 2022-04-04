@@ -13,7 +13,7 @@ speaker:
     "bioUrl": "https://www.microconf.com/growth/speakers/claire-suellentrop/",
   }
 date: 2018-05-01 15:54:02 UTC-07:00
-conference: growth
+conference: growth2018
 description: "When marketing a product, it's common for founders to focus on the product itself. 'Look at our cool features! We help you do XYZ activity, but better!' This is a recipe for getting lost in the noise, and for losing to competitors with deeper pockets."
 image: https://i.imgur.com/CQeRqWO.png
 isPublic: true

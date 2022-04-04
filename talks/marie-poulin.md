@@ -13,7 +13,7 @@ speaker:
     "verified": false,
   }
 date: 2018-05-03 15:44:08 UTC-07:00
-conference: starter
+conference: starter2018
 description: "What does permaculture have to do with building a startup? Everything."
 image: https://i.imgur.com/kEzhQib.jpg
 isPublic: true

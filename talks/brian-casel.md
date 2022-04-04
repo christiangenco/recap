@@ -1,8 +1,17 @@
 ---
 title: How My Weekly Podcast Runs Itself
-speaker: {"name":"Brian Casel","twitter":"CasJam","location":"Orange, CT","description":"I write and teach at https://productizeandscale.com/ // I run https://audienceops.com/ // I co-host the http://bootstrappedweb.com/ podcast.","verified":false,"image":"https://pbs.twimg.com/profile_images/964162706839187457/7Kxj-6V6.jpg","website":"http://productizeandscale.com"}
+speaker:
+  {
+    "name": "Brian Casel",
+    "twitter": "CasJam",
+    "location": "Orange, CT",
+    "description": "I write and teach at https://productizeandscale.com/ // I run https://audienceops.com/ // I co-host the http://bootstrappedweb.com/ podcast.",
+    "verified": false,
+    "image": "https://pbs.twimg.com/profile_images/964162706839187457/7Kxj-6V6.jpg",
+    "website": "http://productizeandscale.com",
+  }
 date: 2018-04-30 16:17:34 UTC-07:00
-conference: growth
+conference: growth2018
 description: With every project Brian starts, he asks how can I sustain this after I stop working on it?
 image: https://i.imgur.com/bKY95Ta.jpg
 isPublic: true
@@ -19,17 +28,17 @@ With every project Brian starts, he asks "how can I sustain this after I stop wo
 
 For a podcast, Brian really only wants to be interviewing interesting people, not:
 
-* finding interesting people to interview
-* researching interesting people
-* handling inviting people and scheduling
-* audio editing and mixing
-* writing show notes with links and transcriptions
-* designing a featured image
-* uploading and publishing in WordPress
-* sending new episodes to my email list
-* posting new episodes to my social media accounts
-* emailing the guest their published episode
-* report on listener stats and trends
+- finding interesting people to interview
+- researching interesting people
+- handling inviting people and scheduling
+- audio editing and mixing
+- writing show notes with links and transcriptions
+- designing a featured image
+- uploading and publishing in WordPress
+- sending new episodes to my email list
+- posting new episodes to my social media accounts
+- emailing the guest their published episode
+- report on listener stats and trends
 
 This stuff needs to get done, so Brian set up a process to get them done automatically.
 

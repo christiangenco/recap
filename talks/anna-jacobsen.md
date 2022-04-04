@@ -13,7 +13,7 @@ speaker:
     "verified": false,
   }
 date: 2018-05-01 14:46:29 UTC-07:00
-conference: growth
+conference: growth2018
 description: "Prevailing wisdom says to make your customers happy. Is this true? In practice, you can make customers really happy and they still churn."
 image: https://i.imgur.com/OFFvp4S.png
 isPublic: true

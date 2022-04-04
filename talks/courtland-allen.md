@@ -13,7 +13,7 @@ speaker:
     "verified": true,
   }
 date: 2018-05-03 16:46:48 UTC-07:00
-conference: starter
+conference: starter2018
 description: "The Startup Runway is a representation of how much money you have left and how much time you have until your business is dead. Navigating the Startup Runway is simple: become cashflow positive before you run out of money."
 image: https://i.imgur.com/3pxXk2L.png
 isPublic: true

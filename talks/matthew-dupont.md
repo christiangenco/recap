@@ -9,7 +9,7 @@ speaker:
     "description": "Matthew works 3 days a week for Poll Everywhere in software sales, and started a job search coaching business 11 months ago. He's been doing 1:1 coaching for a year and am now starting to create infoproducts. Previously, he raised VC funding for a mechanical part sourcing business, worked in a few product roles including at OkCupid, and was a consultant at BCG.",
   }
 date: 2018-05-02 14:25:25 UTC-07:00
-conference: starter
+conference: starter2018
 description: "What is an informational interview? The stated goal is just learning, but it's actually about learning, user feedback, sales, and connections."
 image: https://i.imgur.com/AlS4ozN.png
 isPublic: true

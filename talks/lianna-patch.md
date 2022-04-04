@@ -11,7 +11,7 @@ speaker:
     "website": "http://www.punchlinecopy.com",
   }
 date: 2018-05-01 10:12:22 UTC-07:00
-conference: growth
+conference: growth2018
 description: There are so many principles of improv and humor that can help you shape marketing copy, connect with your users, built loyalty, and increase retention.
 image: https://i.imgur.com/h72d0Xs.png
 isPublic: true

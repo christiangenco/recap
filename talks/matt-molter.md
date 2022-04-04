@@ -1,8 +1,15 @@
 ---
 title: "Micropreneur Hiring, get the right team so you can relax a little"
-speaker: {"name":"Matt Molter","twitter":"","location":"","description":"Founder and CEO of Agency360.", "image": "https://i.imgur.com/FuzZGFB.png"}
+speaker:
+  {
+    "name": "Matt Molter",
+    "twitter": "",
+    "location": "",
+    "description": "Founder and CEO of Agency360.",
+    "image": "https://i.imgur.com/FuzZGFB.png",
+  }
 date: 2018-05-01 11:27:36 UTC-07:00
-conference: growth
+conference: growth2018
 description: Hiring can easily be a trap to fall into. Get these three things right and you won't fall on your face.
 image: https://i.imgur.com/GQQFyKy.png
 isPublic: true
@@ -51,14 +58,13 @@ Make sure you're thinking about:
 
 An outbound cold email for a potential candidate might look like this:
 
-*Hi (Name),*
+_Hi (Name),_
 
-*I am the founder of a growing software company out of Launch Fishers. As we continue to expand we are looking for a sales manager. Looking at your background we might be a good fit for each other. Do you have a few minutes to grab coffee and discuss?*
+_I am the founder of a growing software company out of Launch Fishers. As we continue to expand we are looking for a sales manager. Looking at your background we might be a good fit for each other. Do you have a few minutes to grab coffee and discuss?_
 
-*-Matt*
+_-Matt_
 
 # 3. Ensure They Have the Right Skills
-
 
 Don't just rely on a reference to know if a candidate is right for your job. Potential hires aren't necessarily qualified because they worked for a big company. Bring them in for a longer interview and directly test:
 

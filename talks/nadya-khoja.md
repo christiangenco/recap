@@ -12,7 +12,7 @@ speaker:
     "title": "Director of Marketing, Venngage",
   }
 date: 2018-04-30 13:45:22 UTC-07:00
-conference: growth
+conference: growth2018
 description: "When making viral content, most people focus on clickbaity titles. This will get a bunch of content generated, but it won't be quality content that actually engages users."
 image: https://i.imgur.com/2wYG6Ew.png
 isPublic: true

@@ -13,7 +13,7 @@ speaker:
     "verified": false,
   }
 date: 2018-05-03 13:29:02 UTC-07:00
-conference: starter
+conference: starter2018
 description: "These are the types of lessons that usually cost an arm and a leg, but I got it half price. Starting any growing a business can be a long journey. Some days are going to suck. Really bad. In some cases, weeks, months, or even years can be incredibly rough. Other times will be great. Business, like life, will have its ups and downs. The key isn't to chase the ups and dodge the downs. It's to embrace the journey knowing that it will never be a straight line. It's not possible to entirely avoid the bad days, but there are always tactics to help you get through. Through his own journey dealing with medical issues, running and ultimately selling his small SaaS business, and slowing down to embrace the new trajectory life had handed him, he's gained some fresh perspective about making the the most of the chaos at the intersection of living life and growing a business."
 image: https://i.imgur.com/4RL9vIV.png
 isPublic: true

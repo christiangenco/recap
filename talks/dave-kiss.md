@@ -1,8 +1,17 @@
 ---
 title: The Case Against Growth
-speaker: {"name":"Dave Kiss","twitter":"davekiss","location":"Cleveland, OH","description":"Making stuff for the internet and sharing what I learn along the way. @vimeography @aceblocks @createinternet","verified":false,"image":"https://pbs.twimg.com/profile_images/988418664268484609/4bgbBdxj.jpg","website":"https://davekiss.com"}
+speaker:
+  {
+    "name": "Dave Kiss",
+    "twitter": "davekiss",
+    "location": "Cleveland, OH",
+    "description": "Making stuff for the internet and sharing what I learn along the way. @vimeography @aceblocks @createinternet",
+    "verified": false,
+    "image": "https://pbs.twimg.com/profile_images/988418664268484609/4bgbBdxj.jpg",
+    "website": "https://davekiss.com",
+  }
 date: 2018-04-30 15:53:26 UTC-07:00
-conference: growth
+conference: growth2018
 description: The best way to build something sustainable is to maximize yourself.
 image: https://i.imgur.com/zo1DOAT.png
 isPublic: true
@@ -28,21 +37,21 @@ Are you growing your business because you think you have to? You could probably 
 
 "Growing" could look like:
 
-* improving your UX
-* clarifying your documentaiton
-* maximizing process efficiency
-* cultivating deeper relationships
-* redesigning your onboarding
-* raising your prices
+- improving your UX
+- clarifying your documentaiton
+- maximizing process efficiency
+- cultivating deeper relationships
+- redesigning your onboarding
+- raising your prices
 
 ## 3. Avoid Compulsively Making things Worse
 
 Impulsive growth can:
 
-* Introduce additional risk
-* Slow the decision-making process
-* Bring on extreme technical debt
-* Increase chances of burnout
+- Introduce additional risk
+- Slow the decision-making process
+- Bring on extreme technical debt
+- Increase chances of burnout
 
 Do not skip steps. Think this through. Grow within your means.
 

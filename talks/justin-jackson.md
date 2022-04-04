@@ -2,7 +2,7 @@
 title: An Unconventional Way to Validate Your Product Idea
 speaker: {"image":"https://pbs.twimg.com/profile_images/932726689485828097/n86GsuLG.jpg","name":"Justin Jackson","title":"Founder, Transistor.fm","bioUrl":"http://www.microconf.com/starter/speakers/justin-jackson/","twitter":"mijustin","website":"https://justinjackson.ca","location":"Vernon, BC","description":"Internet stuntman ⚡️I run @megamaker and I'm building @transistorfm","verified":true}
 date: 2018-05-02 10:12:34 UTC-07:00
-conference: starter
+conference: starter2018
 description: "Justin Jackson's product roadmap for:
 identifying who you are and what you want, Choosing a market, Discovering what they want, and Shipping a (small) initial solution"
 image: https://i.imgur.com/8RoCyQ1.png

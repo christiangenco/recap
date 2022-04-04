@@ -13,7 +13,7 @@ speaker:
     "verified": false,
   }
 date: 2018-05-03 11:11:53 UTC-07:00
-conference: starter
+conference: starter2018
 description: "Mojca is a Facebook Ads expert, author, and international speaker. Her work focuses on helping businesses generate more leads and increase profits with a carefully developed Facebook Advertising Strategy, so they can devote their time to other aspects of their business. She is the author of the Facebook Ads Manual: Everything You Need To Know To Get Started and the creator of The Facebook Ads Academy."
 image: https://i.imgur.com/rD2yjg0.png
 isPublic: true

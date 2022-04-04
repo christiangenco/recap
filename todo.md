@@ -1,4 +1,7 @@
-- [ ] list view of talks
+- [x] list view of talks
+- [ ] read time based on word count
+- [ ] get profile image from twitter?
+- [ ]
 - [ ] splash image on each blog post
 - [ ] if no file found, render a page that looks for a live firebase talk
 - [ ] re-enable live blogging

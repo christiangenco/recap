@@ -12,7 +12,7 @@ speaker:
     "website": "http://patrickcollison.com",
   }
 date: 2018-04-30 14:39:34 UTC-07:00
-conference: growth
+conference: growth2018
 description: "Stripe is a big company - how do they fit into Microconf? They embody the bootstraper ethos - they took it a long way as two dudes in a garage with minimal funding."
 image: https://i.imgur.com/H0XrmwJ.jpg
 isPublic: true

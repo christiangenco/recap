@@ -14,7 +14,7 @@ speaker:
     "bioUrl": "https://www.microconf.com/growth/speakers/dave-collins/",
   }
 date: 2018-04-30 11:26:27 UTC-07:00
-conference: growth
+conference: growth2018
 description: "As a founder of a bootstrapped business, you don’t have time for SEO. I get that. Your competition would celebrate this, but they’re also too busy doing the wrong things. I'm going to show you why SEO as you know it is dead, how to use SEO signals to your advantage, and more than 20 different ways to tap into Google's traffic with minimum effort and time investment. The focus of this talk will be on practical steps that every busy business owner can and should adopt to get more new customers without spending a penny."
 image: https://i.imgur.com/L79ZWF7.png
 isPublic: true

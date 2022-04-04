@@ -13,7 +13,7 @@ speaker:
     "bioUrl": "https://www.microconf.com/growth/speakers/jordan-gal/",
   }
 date: 2018-05-01 16:31:55 UTC-07:00
-conference: growth
+conference: growth2018
 description: CartHook spent about $4k in campaigns from January to March of this year to increase ARR $348k.
 image: https://i.imgur.com/BUFJzVz.png
 isPublic: true

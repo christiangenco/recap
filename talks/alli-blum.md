@@ -14,7 +14,7 @@ speaker:
     "verified": false,
   }
 date: 2018-05-02 13:30:11 UTC-07:00
-conference: starter
+conference: starter2018
 description: "Why (and how) to start thinking about onboarding…even if your product isn't built yet. Is it crazy to think about onboarding before you have something to onboard people onto? Should onboarding be a priority when you're still teeny tiny? We'll talk about how your early stage actually gives you an unfair advantage–and how to use it."
 image: https://i.imgur.com/aj9U5K5.jpg
 isPublic: true

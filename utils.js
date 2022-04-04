@@ -7,7 +7,7 @@ import matter from "gray-matter";
 export function parseTalk(path) {
   const { data, content } = matter(fs.readFileSync(path));
   if (data.date) data.date = +data.date;
-  return { frontmatter: data, markdown: content };
+  return { frontmatter: data, markdown: content, path };
 }
 
 export function talkFilenames() {

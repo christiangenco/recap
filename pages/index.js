@@ -1,9 +1,20 @@
+import { format } from "date-fns";
+import Link from "next/link";
+
 import Shell from "components/Shell";
 import Meta from "components/Meta";
 import { getTalks } from "utils";
-import { format } from "date-fns";
 
-function Talk({ title, speaker, date, description, image, conference }) {
+function Talk({
+  title,
+  speaker,
+  date,
+  description,
+  image,
+  conference,
+  wordCount,
+  slug,
+}) {
   const {
     name: speakerName,
     twitter,
@@ -11,8 +22,8 @@ function Talk({ title, speaker, date, description, image, conference }) {
     image: speakerImage,
   } = speaker || {};
 
-  const href = "";
-  const readingTime = "";
+  const href = `/${slug}`;
+  const readingTime = `${Math.ceil(wordCount / 200)} minute`;
 
   return (
     <div className="flex flex-col rounded-lg shadow-lg overflow-hidden">
@@ -22,9 +33,9 @@ function Talk({ title, speaker, date, description, image, conference }) {
       <div className="flex-1 bg-white p-6 flex flex-col justify-between">
         <div className="flex-1">
           <p className="text-sm font-medium text-indigo-600">
-            <a href={href} className="hover:underline">
-              category?
-            </a>
+            <Link href={href}>
+              <a className="hover:underline">{conference}</a>
+            </Link>
           </p>
           <a href={href} className="block mt-2">
             <p className="text-xl font-semibold text-gray-900">{title}</p>
@@ -76,12 +87,43 @@ export default function Home({ talks }) {
         description={"Recaps of Microconf talks."}
         image={"/microconf.jpg"}
       />
+
+      <h1 className="text-4xl">Microconf Recap</h1>
+
       <div className="mt-12 max-w-lg mx-auto grid gap-5 lg:grid-cols-3 lg:max-w-none md:grid-cols-2">
         {talks
           .sort((a, b) => b.frontmatter.date - a.frontmatter.date)
-          .map(({ frontmatter }) => {
-            return <Talk key={frontmatter.title} {...frontmatter} />;
+          .map(({ frontmatter, markdown, path }) => {
+            return (
+              <Talk
+                key={frontmatter.title}
+                {...frontmatter}
+                wordCount={markdown.split(" ").length}
+                slug={path.split("/").pop().split(".")[0]}
+              />
+            );
           })}
+      </div>
+      <div className="prose mt-4">
+        <h1>Past Recaps</h1>
+        <ul>
+          <li>
+            Shai Schechter:{" "}
+            <a href="https://shai.io/microconf/">Microconf Recap 2017</a>
+          </li>
+          <li>
+            remarq.io:{" "}
+            <a href="https://docs.google.com/document/d/1EefLjujm3TW0oL21XvstCx7OuUfwmcJsASvakyhZ2LI/edit#">
+              Microconf Recap 2016
+            </a>
+          </li>
+          <li>
+            Kai Davis:{" "}
+            <a href="https://kaidavis.com/microconf-2015/">
+              Microconf Recap 2015
+            </a>
+          </li>
+        </ul>
       </div>
     </Shell>
   );

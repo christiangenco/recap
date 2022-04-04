@@ -1,8 +1,17 @@
 ---
 title: "Why there is no downside in going for it"
-speaker: {"name":"James Tayler","twitter":"james_s_tayler","location":"Auckland, New Zealand","description":"I do software and strategy.","verified":false,"image":"https://pbs.twimg.com/profile_images/987537498476703744/a6DNH68V.jpg","website":null}
+speaker:
+  {
+    "name": "James Tayler",
+    "twitter": "james_s_tayler",
+    "location": "Auckland, New Zealand",
+    "description": "I do software and strategy.",
+    "verified": false,
+    "image": "https://pbs.twimg.com/profile_images/987537498476703744/a6DNH68V.jpg",
+    "website": null,
+  }
 date: 2018-05-02 14:35:47 UTC-07:00
-conference: starter
+conference: starter2018
 description: "The budding entrepreneurs' Guide to risk. James has made $100k in bitcoin, and prevented a $100k loss in a sushi restaurant investment. Here's his framework."
 image: https://i.imgur.com/PWxTCQH.jpg
 isPublic: true
@@ -35,8 +44,8 @@ James taught himself business from TV, which helped him be cautious of a restaur
 
 Every bet has risk and reward.
 
-* 9-5 job: DOWNSIDE = zero; UPSIDE = capped at salary+benefits
-* Business: DOWNSIDE = capped at capital + opportunity cost; UPSIDE = all the money you could possibly make on that venture
+- 9-5 job: DOWNSIDE = zero; UPSIDE = capped at salary+benefits
+- Business: DOWNSIDE = capped at capital + opportunity cost; UPSIDE = all the money you could possibly make on that venture
 
 ![Calculating uncertainty](https://i.imgur.com/baqYlqI.jpg)
 
@@ -70,9 +79,9 @@ More realistic case:
 
 What If you…
 
-* Read a new book every week
-* Talked to customers / potential customers every day
-* Constantly shipped product
-* Continuously met credible and connected people
+- Read a new book every week
+- Talked to customers / potential customers every day
+- Constantly shipped product
+- Continuously met credible and connected people
 
 …for 300 years?

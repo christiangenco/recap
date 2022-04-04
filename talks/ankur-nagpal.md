@@ -13,7 +13,7 @@ speaker:
     "verified": true,
   }
 date: 2018-05-01 13:39:03 UTC-07:00
-conference: growth
+conference: growth2018
 description: Microconf 2018 talk recap
 image: https://i.imgur.com/jl5QfLo.png
 isPublic: true
@@ -99,7 +99,7 @@ Their general strategy was to take things that were already working, like one-on
 
 But what happens when you need to find another $2k in MRR? Instead of one-on-one personal sales calls, they could host a big webinar with _five to ten_ customers at the same time. This adapted strategy could now find an extra \$1k-3k MRR.
 
-How could Teachable scale up from that? They could schedule that webinar every _week_ instead of every month, so now a consistent $1k MRR was added every *week* for a total increase of $3k-5k MRR every month.
+How could Teachable scale up from that? They could schedule that webinar every _week_ instead of every month, so now a consistent $1k MRR was added every _week_ for a total increase of $3k-5k MRR every month.
 
 How could Teachable scale _that_ strategy? They could make each weekly webinar a joint venture with _influencers_ and capitalize on the influencer's existing audience, which translated to \$5k-10k MRR every month.
 

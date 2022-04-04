@@ -13,7 +13,7 @@ speaker:
     "verified": false,
   }
 date: 2018-05-02 16:50:42 UTC-07:00
-conference: starter
+conference: starter2018
 description: Microconf 2018 talk recap
 image:
 isPublic: true

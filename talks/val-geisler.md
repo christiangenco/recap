@@ -1,8 +1,17 @@
 ---
 title: "The Dinner Party Strategy: A SaaS Customer Onboarding Framework That Connects and Converts"
-speaker: {"name":"Val Geisler","twitter":"lovevalgeisler","location":"Columbus, OH","description":"#emailgeek writing Onboarding Tear Downs. Email conversion strategist & copywriter. Mom, feminist, avid reader.","verified":false,"image":"https://pbs.twimg.com/profile_images/976882873369325570/q1P7vq_n.jpg","website":"http://www.valgeisler.com"}
+speaker:
+  {
+    "name": "Val Geisler",
+    "twitter": "lovevalgeisler",
+    "location": "Columbus, OH",
+    "description": "#emailgeek writing Onboarding Tear Downs. Email conversion strategist & copywriter. Mom, feminist, avid reader.",
+    "verified": false,
+    "image": "https://pbs.twimg.com/profile_images/976882873369325570/q1P7vq_n.jpg",
+    "website": "http://www.valgeisler.com",
+  }
 date: 2018-05-01 11:15:58 UTC-07:00
-conference: growth
+conference: growth2018
 description: "Do you feel completely overwhelmed by the idea of segmenting your list? Aren't sure what kinds of emails to send besides links to your latest blog posts? Val is a marketing conversion copywriter + strategist that can help."
 image: https://i.imgur.com/uE2sqkw.png
 isPublic: true
@@ -82,7 +91,6 @@ At your dinner party it's finally time to serve the main course and in your onbo
 But think about that dinner. Let's say you're serving pot roast as the main course. The conversation is going to be pretty boring if you focus on how long it took you to shop for that cut of beef, how much it cost you to buy, how your kids screamed in the car on the way home from the grocery store. Who. Cares.
 
 If your conversation centers on what matters most to your guests (how the beef was grass-fed, you used a family recipe, it pairs well with the wine) your dinner party is going to build connection and engagement
-
 
 # Side Dishes!
 

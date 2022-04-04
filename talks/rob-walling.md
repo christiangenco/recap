@@ -13,7 +13,7 @@ speaker:
     "verified": false,
   }
 date: 2018-04-30 17:12:38 UTC-07:00
-conference: growth
+conference: growth2018
 description: "Rob Walling isn't anti-venture capital - he's anti-everyone-thinking-venture-capital-is-the-only-way-to-start-a-tech-company. If you're self-funded with one or two founders, you can support your entire business from a tiny niche that provides $20k/month in revenue."
 image: https://i.imgur.com/aSdxyq5.jpg
 isPublic: true

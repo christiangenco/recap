@@ -1,8 +1,17 @@
 ---
 title: "When and How to Acquire and Invest Capital into Your SaaS Business"
-speaker: {"name":"Brian Parks, CFA","twitter":"ParksTweet","location":"Denver, CO","description":"Along with my wife and our cat, I support SaaS Founders and Crystal Palace Players. I support my wife and our cat, too. http://bigfootcap.com","verified":false,"image":"https://pbs.twimg.com/profile_images/846169590887473152/XrSZE9wv.jpg","website":"http://www.bigfootcap.com"}
+speaker:
+  {
+    "name": "Brian Parks, CFA",
+    "twitter": "ParksTweet",
+    "location": "Denver, CO",
+    "description": "Along with my wife and our cat, I support SaaS Founders and Crystal Palace Players. I support my wife and our cat, too. http://bigfootcap.com",
+    "verified": false,
+    "image": "https://pbs.twimg.com/profile_images/846169590887473152/XrSZE9wv.jpg",
+    "website": "http://www.bigfootcap.com",
+  }
 date: 2018-05-01 11:52:22 UTC-07:00
-conference: growth
+conference: growth2018
 description: "All investors have a common fear of underperforming. You can make them more comfortable by avoiding a few common pitfalls of raising money for your company."
 image: https://i.imgur.com/9s2LyHS.jpg
 isPublic: true
@@ -15,9 +24,9 @@ You'll learn how to make investors comfortable giving you money.
 
 Since 2004, Parks has spent his career in and around other people's money:
 
-* 2006-2010: mergers and acquisitions selling companies. Parks used private equity money, corporate money, debt fund and bank financing.
-* 2010-2016: raised $5M for 4 early-stage companies with money from friends and family, angel investors, and venture capital.
-* 2017-Now: started [Bigfoot Capital](https://www.bigfootcap.com/) to capitalize early-stage software companies (4 so far) with money from HNW (accredited investors) and family offices.
+- 2006-2010: mergers and acquisitions selling companies. Parks used private equity money, corporate money, debt fund and bank financing.
+- 2010-2016: raised $5M for 4 early-stage companies with money from friends and family, angel investors, and venture capital.
+- 2017-Now: started [Bigfoot Capital](https://www.bigfootcap.com/) to capitalize early-stage software companies (4 so far) with money from HNW (accredited investors) and family offices.
 
 While these investors are all different in terms of how they invest, all investors have a common fear: **underperforming**.
 

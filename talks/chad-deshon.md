@@ -1,8 +1,17 @@
 ---
 title: "Everything You've Learned at MicroConf is Wrong*"
-speaker: {"name":"Chad DeShon","twitter":"chaddeshon","location":"","description":"@BGTables. @RoyalsUmp. Software Engineer. Royals Fan. Board gamer.","verified":false,"image":"https://pbs.twimg.com/profile_images/2163792831/bluewaldo.png","website":"http://www.BoardGameTables.com"}
+speaker:
+  {
+    "name": "Chad DeShon",
+    "twitter": "chaddeshon",
+    "location": "",
+    "description": "@BGTables. @RoyalsUmp. Software Engineer. Royals Fan. Board gamer.",
+    "verified": false,
+    "image": "https://pbs.twimg.com/profile_images/2163792831/bluewaldo.png",
+    "website": "http://www.BoardGameTables.com",
+  }
 date: 2018-05-01 11:39:48 UTC-07:00
-conference: growth
+conference: growth2018
 description: Microconf 2018 talk recap
 image: https://i.imgur.com/9dCVBPj.jpg
 isPublic: true
@@ -12,7 +21,7 @@ facebookStream: https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fww
 You'll learn:
 
 1. Why recurring revenue and annual plans are overrated.
-2. How to make money charging *less*.
+2. How to make money charging _less_.
 3. Why your podcast player's settings are broken.
 
 # Chad Deshon
@@ -51,7 +60,7 @@ In either of these models, charge your customers when you've delivered value to 
 
 # 2. Annual Plans Are Overrated
 
-You might be tempted to charge up front *and* get it spread out, but those are literally opposites. If you want to, you might be tempted to use annual plans.
+You might be tempted to charge up front _and_ get it spread out, but those are literally opposites. If you want to, you might be tempted to use annual plans.
 
 When Deshon sold BromBone through [FE International](https://feinternational.com/), he found that sellers wouldn't give him full credit in valuing his business for users on annual plans. Annual recurring revenue (ARR) is sometimes considered less valuable than monthly recurring revenue (MRR) because ARR can mask churning problems. If your software sucks, you can still retain them for a year!
 
@@ -83,7 +92,7 @@ Business-to-consumer (B2C) businesses, however, don't have to show a positive RO
 
 "Look at this thing in the pretty picture. Do you want the thing in the pretty picture? Give me money and you can have the thing" is a perfectly reasonable and reliable B2C sales process. The B2C sales process doesn't have to be logical.
 
-ROI calculations are tricky, but people can want anything. Even in B2B sales, it's ultimately a *person* making the sales decision. If you can make the person in a business want your product, that desire can be more valuable than an ROI calculation.
+ROI calculations are tricky, but people can want anything. Even in B2B sales, it's ultimately a _person_ making the sales decision. If you can make the person in a business want your product, that desire can be more valuable than an ROI calculation.
 
 # 5. Listen to Podcasts at 1x
 
