@@ -7,12 +7,12 @@ speaker:
     "location": "Columbus, OH",
     "description": "#emailgeek writing Onboarding Tear Downs. Email conversion strategist & copywriter. Mom, feminist, avid reader.",
     "verified": false,
-    "image": "https://pbs.twimg.com/profile_images/976882873369325570/q1P7vq_n.jpg",
+    "image": "https://pbs.twimg.com/profile_images/1184841103901638656/j3WrmGIX_400x400.jpg",
     "website": "http://www.valgeisler.com",
   }
 date: 2018-05-01 11:15:58 UTC-07:00
 conference: growth2018
-description: "Do you feel completely overwhelmed by the idea of segmenting your list? Aren't sure what kinds of emails to send besides links to your latest blog posts? Val is a marketing conversion copywriter + strategist that can help."
+description: "Do you feel completely overwhelmed by the idea of segmenting your list? Aren't sure what kinds of emails to send besides links to your latest blog posts? Learn how to write emails that reduce churn and stand out."
 image: https://i.imgur.com/uE2sqkw.png
 isPublic: true
 facebookStream: https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fteamlanio%2Fvideos%2F1676996419015648%2F&show_text=0&width=560

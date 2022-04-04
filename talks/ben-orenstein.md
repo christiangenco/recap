@@ -7,7 +7,7 @@ speaker:
     "location": "Boston, Massachusetts",
     "description": "Co-founder and CEO of @PairWithTuple. Host of @artofproductpod.",
     "verified": false,
-    "image": "https://pbs.twimg.com/profile_images/1005888852286828544/0JEXZoCp.jpg",
+    "image": "https://pbs.twimg.com/profile_images/1162908983323222016/VMeioPlW_400x400.jpg",
     "website": "http://www.benorenstein.com",
   }
 date: 2019-03-28 17:21:22

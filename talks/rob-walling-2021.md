@@ -7,7 +7,7 @@ speaker:
     "location": "Minneapolis, MN",
     "description": "Serial entrepreneur, author, angel. Founder of tinyseed.com, MicroConf, Drip. Author of Start Small, Stay Small.",
     "verified": false,
-    "image": "https://pbs.twimg.com/profile_images/1008016146912641024/2TiLVL8S.jpg",
+    "image": "https://pbs.twimg.com/profile_images/1174760528654127104/7EWIp-8-_400x400.jpg",
     "website": "http://www.robwalling.com",
   }
 date: 2021-10-04 15:49:51
@@ -128,4 +128,3 @@ Jordan Gal raised the prices for everyone on CartHook with no grandfathering. It
 Structure your message by 1) setting the stage ("we're CartHook and we're changing our pricing"), 2) giving a high-level justification ("we're tons more valuable than when we started"), 3) more specifics about who it impacts, 4) more justifications, and 5) reach out with questions.
 
 Check out [how CartHook wrote their price raising email](https://web.archive.org/web/20201001064206/https://carthook.com/blog/announcing-a-change-in-carthook-pricing-and-process/).
-
