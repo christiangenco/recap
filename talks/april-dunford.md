@@ -13,7 +13,7 @@ speaker:
 date: 2022-04-04 11:00:00
 conference: growth2022
 description: We understand stories are a great way to connect with customers but few startups really take advantage of a good narrative to help them sell. Do your sales meetings leave customers excited or confused? Is your marketing closer to a feature list or a set of compelling reasons to buy? Are you losing deals to competitors with clearly inferior products? In this talk, I am going to give you a framework you can use to build a story that focuses on WHY you built what you built in a way that is differentiating, compelling, and most importantly, gets you business.
-image: https://res.cloudinary.com/genco/image/upload/v1649090923/c/GhCK.jpg
+image: https://res.cloudinary.com/genco/image/upload/w_1200/v1649090923/c/GhCK.jpg
 isPublic: true
 ---
 
@@ -36,7 +36,7 @@ You're the expert in your market and your buyer is a novice. What they want is e
 
 ## Case Study: April Buys a Toilet
 
-![Toilet stores do a bad job of helping buyers make a decision.](https://res.cloudinary.com/genco/image/upload/v1649091095/c/khmL.jpg)
+![Toilet stores do a bad job of helping buyers make a decision.](https://res.cloudinary.com/genco/image/upload/w_1200/v1649091095/c/khmL.jpg)
 
 Toronto is full of old crappy houses with terrible bathrooms. When April went to the toilet store to shop she was faced with hundreds of identical looking toilets. When a salesman came up to help her he asked "is there a particular kind of toilet you're looking for?" which isn't a helpful question for someone who doesn't know anything about toilets.
 
@@ -62,7 +62,7 @@ Here's a software example of the customer buying process: Leveljump is a tool to
 
 Before working with April, LevelJump's script for sales calls looked like a technical tutorial of how to use the software. After, the point of view pitch focused on why Leveljump was built.
 
-![Leveljump moved their pitch positioning from what Leveljump is to how it helps users](https://res.cloudinary.com/genco/image/upload/v1649091127/c/d25x.jpg)
+![Leveljump moved their pitch positioning from what Leveljump is to how it helps users](https://res.cloudinary.com/genco/image/upload/w_1200/v1649091127/c/d25x.jpg)
 
 This point of view pitch can feel spooky because it disqualifies people by showing them which tradeoffs your solution makes.
 
