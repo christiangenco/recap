@@ -1,3 +1,4 @@
+import Image from "next/image";
 import fs from "fs";
 import { join } from "path";
 import Markdown from "react-markdown";
@@ -30,27 +31,26 @@ export default function Post({ frontmatter, slug, markdown }) {
       />
 
       <article className="prose prose-stone lg:prose-xl dark:prose-invert">
-        <img src={image} alt="" />
-        {true && (
-          <Markdown
-            children={markdown}
-            components={
-              {
-                // TODO: wrap <figure> in a <div> instead of <p>
-                // https://github.com/josestg/rehype-figure/blob/master/index.js
-                // img: ({ src, alt, title }) => {
-                //   console.log({ src, alt, title });
-                //   return (
-                //     <figure>
-                //       <img src="src" />
-                //       <figcaption>alt</figcaption>
-                //     </figure>
-                //   );
-                // },
-              }
+        <Image src={image} alt="" />
+        <Markdown
+          components={
+            {
+              // TODO: wrap <figure> in a <div> instead of <p>
+              // https://github.com/josestg/rehype-figure/blob/master/index.js
+              // img: ({ src, alt, title }) => {
+              //   console.log({ src, alt, title });
+              //   return (
+              //     <figure>
+              //       <img src="src" />
+              //       <figcaption>alt</figcaption>
+              //     </figure>
+              //   );
+              // },
             }
-          />
-        )}
+          }
+        >
+          {markdown}
+        </Markdown>
       </article>
     </Shell>
   );

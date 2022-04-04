@@ -1,5 +1,6 @@
 import { format } from "date-fns";
 import Link from "next/link";
+import Image from "next/image";
 
 import Shell from "components/Shell";
 import Meta from "components/Meta";
@@ -28,7 +29,11 @@ function Talk({
   return (
     <div className="flex flex-col rounded-lg shadow-lg overflow-hidden">
       <div className="flex-shrink-0">
-        <img className="h-48 w-full object-cover" src={image} alt="" />
+        <Link href={href}>
+          <a>
+            <Image className="h-48 w-full object-cover" src={image} alt="" />
+          </a>
+        </Link>
       </div>
       <div className="flex-1 bg-white p-6 flex flex-col justify-between">
         <div className="flex-1">
@@ -46,7 +51,7 @@ function Talk({
           <div className="flex-shrink-0">
             <a href={`https://twitter.com/${twitter}`}>
               <span className="sr-only">{speakerName}</span>
-              <img
+              <Image
                 className="h-10 w-10 rounded-full"
                 src={speakerImage}
                 alt=""

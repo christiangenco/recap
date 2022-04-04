@@ -14,20 +14,20 @@ export default function Meta({
       <meta property="og:type" content="article" />
       <meta
         property="article:section"
-        itemprop="articleSection"
+        itemProp="articleSection"
         content="Business"
       />
       {date && (
         <meta
           property="article:published"
-          itemprop="datePublished"
+          itemProp="datePublished"
           content={new Date(date)}
         />
       )}
       {updatedAt && (
         <meta
           property="article:modified"
-          itemprop="dateModified"
+          itemProp="dateModified"
           content={new Date(updatedAt)}
         />
       )}
