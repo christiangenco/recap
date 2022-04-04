@@ -35,6 +35,15 @@ export default function Talk({ frontmatter, slug, markdown }) {
         <a className="my-6 underline">⬅️ All Microconf Recap posts</a>
       </Link>
 
+      <a
+        href={`https://github.com/christiangenco/recap/blob/main/talks/${slug}.md`}
+        target="_blank"
+        rel="noreferrer"
+        className=" ml-2 hover:underline text-blue-500"
+      >
+        Something wrong? Edit this talk.
+      </a>
+
       <h1 className="text-7xl my-4">{title}</h1>
 
       <Speaker speaker={speaker} />
