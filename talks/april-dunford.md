@@ -10,7 +10,7 @@ speaker:
     "image": "https://pbs.twimg.com/profile_images/1502444209353244675/BmJat1yq.jpg",
     "website": "http://www.aprildunford.com/",
   }
-date: 2022-04-04 07.54.44
+date: 2022-04-04 11:00:00
 conference: growth2022
 description: We understand stories are a great way to connect with customers but few startups really take advantage of a good narrative to help them sell. Do your sales meetings leave customers excited or confused? Is your marketing closer to a feature list or a set of compelling reasons to buy? Are you losing deals to competitors with clearly inferior products? In this talk, I am going to give you a framework you can use to build a story that focuses on WHY you built what you built in a way that is differentiating, compelling, and most importantly, gets you business.
 image: https://res.cloudinary.com/genco/image/upload/v1649090923/c/GhCK.jpg
