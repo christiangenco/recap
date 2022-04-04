@@ -1,26 +1,32 @@
-import Image from "next/image";
+// import Image from "next/image";
 import fs from "fs";
 import { join } from "path";
 import Markdown from "react-markdown";
+import Link from "next/link";
 
+import { Image } from "components/MarkdownComponents";
 import Shell from "components/Shell";
 import Meta from "components/Meta";
 import { parseTalk, talkFilenames } from "utils";
 
 export default function Post({ frontmatter, slug, markdown }) {
+  const { title, speaker, date, description, image, conference } = frontmatter;
   const {
-    title,
-    speaker: {
-      name: speakerName,
-      twitter,
-      description: speakerDescription,
-      image: speakerImage,
-    },
-    date,
-    description,
-    image,
-    conference,
-  } = frontmatter;
+    name: speakerName,
+    twitter,
+    description: speakerDescription,
+    image: speakerImage,
+  } = speaker;
+
+  const renderers = {
+    // blockquote: Blockquote({ speaker, url }),
+    // thematicBreak: Break,
+    // heading: Heading,
+    // // html: props => "",
+    // image: Image({ speaker, url: `https://recap.app/${slug}` }),
+    // link: Link,
+    // list: List,
+  };
 
   return (
     <Shell>
@@ -30,27 +36,17 @@ export default function Post({ frontmatter, slug, markdown }) {
         image={image}
       />
 
+      <Link href="/">
+        <a className="my-6 underline">⬅️ All Microconf Recap posts</a>
+      </Link>
+
       <article className="prose prose-stone lg:prose-xl dark:prose-invert">
-        <Image src={image} alt="" />
-        <Markdown
-          components={
-            {
-              // TODO: wrap <figure> in a <div> instead of <p>
-              // https://github.com/josestg/rehype-figure/blob/master/index.js
-              // img: ({ src, alt, title }) => {
-              //   console.log({ src, alt, title });
-              //   return (
-              //     <figure>
-              //       <img src="src" />
-              //       <figcaption>alt</figcaption>
-              //     </figure>
-              //   );
-              // },
-            }
-          }
-        >
-          {markdown}
-        </Markdown>
+        <img src={image} alt="" />
+        {true && (
+          <Markdown escapeHtml={false} renderers={renderers}>
+            {markdown}
+          </Markdown>
+        )}
       </article>
     </Shell>
   );

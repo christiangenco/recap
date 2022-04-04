@@ -7,5 +7,6 @@
 - [ ] re-enable live blogging
 - [ ] twitter integration
 - [ ] talk categories array to organize talks into themes
+- [ ] tracker
 - [ ] figures: https://unifiedjs.com/explore/package/rehype-figure/ https://github.com/josestg/rehype-figure/blob/master/index.js https://github.com/remarkjs/react-markdown#appendix-b-components
 - [x] <link href="https://fonts.googleapis.com/css?family=Lato|Merriweather" rel="stylesheet" class="next-head"/>
