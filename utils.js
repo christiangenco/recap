@@ -6,7 +6,7 @@ import matter from "gray-matter";
 
 export function parseTalk(path) {
   const { data, content } = matter(fs.readFileSync(path));
-  if (data.date) data.date = +data.date;
+  if (data.date) data.date = +new Date(data.date);
   return { frontmatter: data, markdown: content, path };
 }
 
