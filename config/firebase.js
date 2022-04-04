@@ -5,4 +5,5 @@ export default {
   projectId: "microconfrecap",
   storageBucket: "microconfrecap.appspot.com",
   messagingSenderId: "302146528978",
+  appId: "1:302146528978:web:c4ca981463ec4748846f0b",
 };
