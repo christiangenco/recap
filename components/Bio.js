@@ -13,7 +13,7 @@ import {
   TwitterOnAirButton,
 } from "react-twitter-embed";
 
-export default () => {
+export default function Bio() {
   const [frontend, setFrontend] = useState(false);
   useEffect(() => {
     setFrontend(true);
@@ -39,4 +39,4 @@ export default () => {
       </a>
     </div>
   );
-};
+}

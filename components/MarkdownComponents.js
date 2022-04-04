@@ -96,52 +96,52 @@ const innerText = (el) => {
 // //   );
 // // };
 
-export const Image =
-  ({ speaker, url }) =>
-  ({ alt, src }) => {
-    const shareButton = (
-      <Share
-        url={`${url}?img=${encodeURIComponent(src)}`}
-        options={{
-          text: `${alt} ${
-            speaker && speaker.twitter ? "@" + speaker.twitter : ""
-          }`,
-          hashtags: "microconf",
-          via: "cgenco",
-          related: "microconf",
-        }}
-      />
-    );
+// export const Image =
+//   ({ speaker, url }) =>
+//   ({ alt, src }) => {
+//     const shareButton = (
+//       <Share
+//         url={`${url}?img=${encodeURIComponent(src)}`}
+//         options={{
+//           text: `${alt} ${
+//             speaker && speaker.twitter ? "@" + speaker.twitter : ""
+//           }`,
+//           hashtags: "microconf",
+//           via: "cgenco",
+//           related: "microconf",
+//         }}
+//       />
+//     );
 
-    // w-2/3 ml-4 mb-6 md:-mr-16 lg:-mr-32
-    let caption = alt;
-    let figureClassName = " ";
-    let captionClassName = "";
+//     // w-2/3 ml-4 mb-6 md:-mr-16 lg:-mr-32
+//     let caption = alt;
+//     let figureClassName = " ";
+//     let captionClassName = "";
 
-    const { hashtags, stripped } = extractHashtags(alt);
-    caption = stripped;
+//     const { hashtags, stripped } = extractHashtags(alt);
+//     caption = stripped;
 
-    if (hashtags.includes("small")) {
-      figureClassName +=
-        "w-1/2 md:w-1/3 md:-mr-16 lg:-mr-32 ml-6 mb-6 float-right clearfix";
-    } else if (hashtags.includes("large")) {
-      figureClassName += "float-right md:-mr-16 lg:-mr-32";
-    } else {
-      // medium
-      figureClassName +=
-        "w-full md:w-3/4 md:-mr-16 lg:-mr-32 md:ml-6 mb-6 float-right clearfix";
-    }
+//     if (hashtags.includes("small")) {
+//       figureClassName +=
+//         "w-1/2 md:w-1/3 md:-mr-16 lg:-mr-32 ml-6 mb-6 float-right clearfix";
+//     } else if (hashtags.includes("large")) {
+//       figureClassName += "float-right md:-mr-16 lg:-mr-32";
+//     } else {
+//       // medium
+//       figureClassName +=
+//         "w-full md:w-3/4 md:-mr-16 lg:-mr-32 md:ml-6 mb-6 float-right clearfix";
+//     }
 
-    return (
-      <figure className={figureClassName}>
-        <img src={src} className="w-full rounded-t" />
-        <figcaption className="">
-          <div className="float-right">{shareButton}</div>
-          {caption}
-        </figcaption>
-      </figure>
-    );
-  };
+//     return (
+//       <figure className={figureClassName}>
+//         <img src={src} className="w-full rounded-t" />
+//         <figcaption className="">
+//           <div className="float-right">{shareButton}</div>
+//           {caption}
+//         </figcaption>
+//       </figure>
+//     );
+//   };
 
 // export const Link = ({ href, children }) => {
 //   const nakedLink = children[0] === href;

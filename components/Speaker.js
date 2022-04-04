@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import get from "lodash.get";
 import { Follow } from "react-twitter-widgets";
 
-export default ({ speaker }) => {
+export default function Speaker({ speaker }) {
   const [frontend, setFrontend] = useState(false);
   useEffect(() => {
     setFrontend(true);
@@ -42,4 +42,4 @@ export default ({ speaker }) => {
       )}
     </div>
   );
-};
+}

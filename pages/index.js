@@ -105,16 +105,24 @@ export default function Home({ talks }) {
 
         <ul>
           <li>
-            <a href="/april-dunford">April Dunford</a>
+            <Link href="/april-dunford">
+              <a>April Dunford</a>
+            </Link>
           </li>
           <li>
-            <a href="/don-pottinger">Don Pottinger</a>
+            <Link href="/don-pottinger">
+              <a>Don Pottinger</a>
+            </Link>
           </li>
           <li>
-            <a href="/rob-walling-2022">Rob Walling</a>
+            <Link href="/rob-walling-2022">
+              <a>Rob Walling</a>
+            </Link>
           </li>
           <li>
-            <a href="/robert-carrington">Robert Carrington</a>
+            <Link href="/robert-carrington">
+              <a>Robert Carrington</a>
+            </Link>
           </li>
         </ul>
 
