@@ -13,7 +13,7 @@ speaker:
 date:
 conference: growth2022
 description: "Over the course of 10+ years, Don has developed an approach to pursuing his entrepreneurial dreams while living a balanced life. Learn how Don transitioned from engineer to CTO then pivoted to running a SaaS business as a solo entrepreneur. He's sold his SaaS business, landed at Google, then launched and grew a $1M+ / year business in his spare time."
-image:
+image: https://res.cloudinary.com/genco/image/upload/w_1200/v1649167689/c/sFwa.jpg
 isPublic: true
 ---
 
