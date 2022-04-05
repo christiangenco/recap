@@ -10,7 +10,7 @@ speaker:
     "image": "https://pbs.twimg.com/profile_images/1499842014237663242/nqiIHrHY.jpg",
     "website": "https://avratalent.com/work-web3",
   }
-date:
+date: 2022-04-05 10.00.00
 conference: growth2022
 description: "Climbing the revenue ladder can be exhilarating, but for every milestone you reach, a new set of challenges or needs presents itself.  In this session, you’ll learn how to make smart hiring decisions to level up your resources in tandem with your revenue growth and you’ll never find yourself pinched for help. "
 image: https://res.cloudinary.com/genco/image/upload/w_1200/v1649171758/c/8u7e.jpg
