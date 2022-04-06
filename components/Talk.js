@@ -44,7 +44,7 @@ export default function Talk({ frontmatter, slug, markdown }) {
         Something wrong? Edit this talk.
       </a>
 
-      <h1 className="text-7xl my-4">{title}</h1>
+      <h1 className="text-7xl my-4 dark:text-white">{title}</h1>
 
       <Speaker speaker={speaker} />
 
