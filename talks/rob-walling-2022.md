@@ -50,7 +50,7 @@ Some of these tactics may feel familiar, some stuff you're already doing, and ho
 14. **Use Uptime Monitoring** with something like [Speedway](https://www.speedway.app/) or [Fathom](https://www.fathomhq.com/).
 15. **Track your knowledgebase searches**, especially ones that don't get results.
 16. **Enable SPF/DKIM**: check that you have the correct configuration with an [SPF Record Checker](https://www.dmarcanalyzer.com/spf/checker/).
-17. **Rate limit your APIs**: every framework has a rate limiter (ex: [flask_limiter](https://pypi.org/project/Flask-Limiter/), [django_ratelimit](https://django-ratelimit.readthedocs.io/en/stable/), [ruby_limiter](https://github.com/Shopify/limiter, [RateLimiter](https://laravel.com/docs/9.x/rate-limiting))
+17. **Rate limit your APIs**: every framework has a rate limiter (ex: [flask_limiter](https://pypi.org/project/Flask-Limiter/), [django_ratelimit](https://django-ratelimit.readthedocs.io/en/stable/), [ruby_limiter](https://github.com/Shopify/limiter), [RateLimiter](https://laravel.com/docs/9.x/rate-limiting))
 18. **Ask why people are canceling**: instead of a text box at cancel that people will ignore, send an email.
 
 ![An example email asking why someone canceled](https://res.cloudinary.com/genco/image/upload/w_1200/v1649109987/c/g7Yk.jpg)

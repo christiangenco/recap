@@ -100,35 +100,6 @@ export default function Home({ talks }) {
 
       <h1 className="text-4xl">Microconf Recap</h1>
 
-      <div className="prose mt-4">
-        <h2>Live recaps for Microconf 2022</h2>
-
-        <ul>
-          <li>
-            <Link href="/april-dunford">
-              <a>April Dunford</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/don-pottinger">
-              <a>Don Pottinger</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/rob-walling-2022">
-              <a>Rob Walling</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/robert-carrington">
-              <a>Robert Carrington</a>
-            </Link>
-          </li>
-        </ul>
-
-        <h2>Past recaps</h2>
-      </div>
-
       <div className="mt-12 max-w-lg mx-auto grid gap-5 lg:grid-cols-3 lg:max-w-none md:grid-cols-2">
         {talks
           .sort((a, b) => b.frontmatter.date - a.frontmatter.date)
