@@ -41,4 +41,4 @@ Zapier Partner API, API Deck, and Open Channel.
 
 [salesflare partners](https://integrations.salesflare.com/)
 
-For more, and two great jokes, check out [everydaydeveloper.com/integrations](https://everydaydeveloper.com/integrations).
+For more, and two great jokes, check out [everydeveloper.com/integrations/](https://everydeveloper.com/integrations/).
